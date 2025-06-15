@@ -49,11 +49,3 @@ This project explores the *Red Wine Quality Dataset* from the UCI Machine Learni
 
 ---
 
-## 🚀 Getting Started
-
-### 🔧 Installation
-
-1. *Clone the repository*
-   ```bash
-   git clone https://github.com/your-username/wine-quality-app.git
-   cd wine-quality-app
